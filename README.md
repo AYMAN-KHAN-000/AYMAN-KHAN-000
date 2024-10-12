@@ -27,5 +27,6 @@
 📫 **How to Reach Me:**
 - Email: aymanuchiha@gmail.com
 
-- ![johan2](https://github.com/user-attachments/assets/2b0b43c9-6505-456e-b2c7-96827a4df126)
-- 
+- ![guts](https://github.com/user-attachments/assets/f5221b39-0626-491b-b7d9-bdaaa216c02d)
+
+  
