@@ -59,7 +59,7 @@ school of cosmics  <br>
 <a href="https://discord.gg/wHsZecFE2J" target="_blank"><img width="70" alt="discord-icon-2048x2048-o5mluhz2" src="https://github.com/user-attachments/assets/b4705907-00c6-4286-914d-98d7edbfc808"></a> <br>
 official cosmics <br>
 <a href="https://discord.gg/22p6Ndvg2t" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" <img/>
+
 </a>
 
 
