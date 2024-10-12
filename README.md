@@ -1,12 +1,12 @@
 ![guts](https://github.com/user-attachments/assets/19b1b011-127b-4246-b6cc-430e61dd8ee5)
 
-<h1 align="center">, I'm AYMAN KHAN</h1>
+<h1 align="center"> I'm AYMAN KHAN</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
 <h4 align="center">Founder OF COSMICS</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
