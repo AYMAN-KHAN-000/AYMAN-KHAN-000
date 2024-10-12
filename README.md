@@ -1,8 +1,8 @@
-(![guts](https://github.com/user-attachments/assets/19b1b011-127b-4246-b6cc-430e61dd8ee5))
+![guts](https://github.com/user-attachments/assets/19b1b011-127b-4246-b6cc-430e61dd8ee5)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
+<h1 align="center">, I'm AYMAN KHAN(Tutul)</h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h4 align="center">Founder OF COSMICS</h4>
 
 <div align="center">
 
@@ -16,15 +16,10 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **aymanuchiha99@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
