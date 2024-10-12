@@ -54,6 +54,12 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <img width="89" alt="python-logo-master-v3-TM" src="https://github.com/user-attachments/assets/b85991c7-e17f-4838-955e-accde9525944">
 
+**JONI MY DISCORD SERVER**
+school of cosmics
+<a href="https://discord.gg/wHsZecFE2J" target="_blank">![discord-icon-2048x2048-o5mluhz2](https://github.com/user-attachments/assets/2e81ac30-f07f-4076-ab2b-52208d7b2f67)</a>
+official cosmics
+
+
 
 
 </body>
