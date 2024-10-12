@@ -2,12 +2,12 @@
 
 ![guts](https://github.com/user-attachments/assets/cb2d56ce-565e-4a5f-b903-2b1cf6b17cc4)
 
-👋 Hi, I’m Ayman KHAN
+                        Hi, I’m Ayman KHAN
 ---
 
-🚀 **Software Engineer | Developer | Open-Source Enthusiast**
+         🚀 **Software Engineer | Developer | Open-Source Enthusiast**
 
-🔧 **Skills & Technologies:**
+ 🔧 **Skills & Technologies:**
 - Programming Languages: Python, JavaScript, C++
 - Web Development: HTML, CSS, React, Node.js
 - Databases: MySQL, MongoDB
