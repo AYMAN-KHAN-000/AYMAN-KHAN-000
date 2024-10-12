@@ -2,8 +2,9 @@
 
 ![guts](https://github.com/user-attachments/assets/cb2d56ce-565e-4a5f-b903-2b1cf6b17cc4)
 
-                        Hi, I’m Ayman KHAN
+                       👋 Hi, I’m AYMAN KHAN
 ---
+
 
          🚀 **Software Engineer | Developer | Open-Source Enthusiast**
 
