@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I’m Ayman KHAN
+---
 
-<!--
-**AYMAN-KHAN-000/AYMAN-KHAN-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Developer | Open-Source Enthusiast**
 
-Here are some ideas to get you started:
+🔧 **Skills & Technologies:**
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- DevOps: Docker, Kubernetes, Jenkins
+- Tools: Git, VS Code, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:**
+- Advanced React
+- Machine Learning
+
+🔗 **Connect with Me:**
+- [FACEBOOK]([your-linkedin-url](https://www.facebook.com/profile.php?id=61556927296348))
+
+
+📫 **How to Reach Me:**
+- Email: aymanuchiha@gmail.com
