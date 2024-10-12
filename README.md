@@ -1,5 +1,4 @@
-
-![johan](https://github.com/user-attachments/assets/b28d146b-9772-488a-b30e-48636f03061f)
+![fgjxcfgj](https://github.com/user-attachments/assets/248b2b04-1d3e-4fc3-bbb1-73b017d77882)
 
 👋 Hi, I’m Ayman KHAN
 ---
