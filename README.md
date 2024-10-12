@@ -1,6 +1,6 @@
 
 
-![fgjxcfgj](https://github.com/user-attachments/assets/248b2b04-1d3e-4fc3-bbb1-73b017d77882)
+![guts](https://github.com/user-attachments/assets/cb2d56ce-565e-4a5f-b903-2b1cf6b17cc4)
 
 👋 Hi, I’m Ayman KHAN
 ---
