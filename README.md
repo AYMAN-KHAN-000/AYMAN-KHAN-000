@@ -4,7 +4,8 @@
 
                      
 ---
-👋 Hi, I’m [Your Name]
+👋 Hi, I’m AYMAN KHAN
+
 ---
 
 🚀 **Software Engineer | Developer | Open-Source Enthusiast**
