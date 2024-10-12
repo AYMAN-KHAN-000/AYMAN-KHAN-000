@@ -5,7 +5,6 @@
                      
 ---
 👋 Hi, I’m AYMAN KHAN
-
 ---
 
 🚀 **Software Engineer | Developer | Open-Source Enthusiast**
