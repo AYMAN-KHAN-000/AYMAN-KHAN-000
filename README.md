@@ -56,7 +56,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 **JONI MY DISCORD SERVER** <br>
 school of cosmics  <br>
-<a href="https://discord.gg/wHsZecFE2J" target="_blank"><img width="70" alt="discord-icon-2048x2048-o5mluhz2" src="https://github.com/user-attachments/assets/b4705907-00c6-4286-914d-98d7edbfc808"></a> <br>
+<a href="https://discord.gg/wHsZecFE2J" target="_blank"><img width="70" alt="discord-icon-2048x2048-o5mluhz2" src="https://github.com/user-attachments/assets/b4705907-00c6-4286-914d-98d7edbfc808">![cosmics 2](https://github.com/user-attachments/assets/fd2b9c28-b26b-4038-bab2-1b7571ae2b34)
+</a> <br>
 official cosmics <br>
 <a href="https://discord.gg/22p6Ndvg2t" target="_blank">
 
