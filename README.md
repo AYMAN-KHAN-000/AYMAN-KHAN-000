@@ -16,7 +16,7 @@ Skills: C  /  C++  /  Java  /  PYTHON  /  BOOTSTRAP  /  REACT  /  JS  /  HTML  /
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning  JavaScript, Advanced Web developement
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, python, c++, Unity, Unreal Engine**
 
