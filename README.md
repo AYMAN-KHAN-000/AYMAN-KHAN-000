@@ -2,10 +2,11 @@
 
 <h1 align="center"> I'm AYMAN KHAN</h1>
 <h3 align="center">Programmer  |  Web Developer  |  Api Developer  |  Meshine Developer  |  AI Desinger  |  Game Geveloper  <br><br>|  Content Creator  |  Vedio Editor  |  Graphic Desinger  |  Product Desinger  |  Self Learner</h3>
+<br>
 <h4 align="center">Founder OF COSMICS</h4>
-
+<br>
 <div align="center">
-
+<br>
 
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS / unity / unreal engine
@@ -16,7 +17,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS / unity / u
 
 - 🌱 I’m currently learning Golang, Java, C++
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, python, c++, gmae developement**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, python, c++, Unity, Unreal Engine**
 
 - 📫 How to reach me **aymanuchiha99@gmail.com**
 
