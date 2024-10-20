@@ -1,7 +1,7 @@
 ![guts](https://github.com/user-attachments/assets/19b1b011-127b-4246-b6cc-430e61dd8ee5)
 
 <h1 align="center"> I'm AYMAN KHAN</h1>
-<h3 align="center">Programmer | Web Developer | Api Developer | Meshine Developer | AI Desinger | Game Geveloper | Content Creator |Vedio Editor | Graphic Desinger| Product Desinger | Self Learner</h3>
+<h3 align="center">Programmer | Web Developer | Api Developer | Meshine Developer | AI Desinger | Game Geveloper <br>| Content Creator |Vedio Editor | Graphic Desinger| Product Desinger | Self Learner</h3>
 <h4 align="center">Founder OF COSMICS</h4>
 
 <div align="center">
