@@ -9,7 +9,7 @@
 <br>
 
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS / unity / unreal engine
+Skills: C  /  C++  /  Java  /  PYTHON  /  BOOTSTRAP  /  REACT  /  JS  /  HTML  /  CSS  /  unity  /  unreal engine
 
 </div>
 <br>
