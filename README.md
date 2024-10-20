@@ -3,7 +3,7 @@
 <h1 align="center"> I'm AYMAN KHAN</h1>
 <h3 align="center">Programmer  |  Web Developer  |  Api Developer  |  Meshine Developer  |  AI Desinger  |  Game Geveloper  <br><br>|  Content Creator  |  Vedio Editor  |  Graphic Desinger  |  Product Desinger  |  Self Learner</h3>
 <br>
-<h3 align="center">Founder OF COSMICS</h3>
+<h2 align="center">Founder OF COSMICS</h2>
 <br>
 <div align="center">
 <br>
