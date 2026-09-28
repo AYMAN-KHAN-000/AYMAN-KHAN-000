@@ -1,4 +1,4 @@
-![guts](https://github.com/user-attachments/assets/19b1b011-127b-4246-b6cc-430e61dd8ee5)
+![guts](https://i.pinimg.com/736x/50/6f/5c/506f5cee6245e4e3a9fb7237fb18f5b2.jpg)
 
 <h1 align="center"> I'm AYMAN KHAN</h1>
 <h3 align="center">Programmer  |  Web Developer  |  Api Developer  |  Meshine Developer  |  AI Desinger  |  Game developer  <br><br>|  Content Creator  |  Vedio Editor  |  Graphic Desinger  |  Product Desinger  |  Self Learner</h3>
@@ -22,13 +22,4 @@
 ![](https://streak-stats.demolab.com/?user=ayman-khan-000&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayman-khan-000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayman-khan-000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayman-khan-000&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ayman-khan-000&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
