@@ -1,4 +1,4 @@
-![guts](https://i.pinimg.com/736x/50/6f/5c/506f5cee6245e4e3a9fb7237fb18f5b2.jpg)
+![silver](https://i.pinimg.com/1200x/3f/6d/95/3f6d95cde0c365d8c181d6e31c5f34a3.jpg)
 
 <h1 align="center"> I'm AYMAN KHAN</h1>
 <h3 align="center">Programmer  |  Web Developer  |  Api Developer  |  Meshine Developer  |  AI Desinger  |  Game developer  <br><br>|  Content Creator  |  Vedio Editor  |  Graphic Desinger  |  Product Desinger  |  Self Learner</h3>
