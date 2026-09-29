@@ -24,24 +24,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayman-khan-000&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<br clear="both">
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/ayman-khan-000/ayman-khan-000/snake-output/snake.svg" alt="Snake animation" />
-
-###
